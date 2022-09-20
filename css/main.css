@@ -1,0 +1,193 @@
+.wrapper{
+    margin: 0 auto;
+    max-width: 1390px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: Arial;
+}
+
+/* header */
+
+a{
+    text-decoration: none;
+    color: #FFCC00;
+}
+
+nav{
+    background-color: #03357C;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.links{
+    margin-right: 3em;
+}
+
+#schoolImage{
+    max-height: 50em;
+    overflow: hidden;
+    margin-bottom: 5em;
+}
+
+/* main */
+
+.anchor{
+    position: absolute;
+    transform: translateY(-25vh);
+}
+
+.borderGroup{
+    margin: 0 10em 6em 10em;
+    padding: 1em 1em 1em 1em;
+}
+
+.borderGroupHalf{
+    background-color: #C1ED0C;
+    color: #69197C;
+    width: 50%;
+    height: 20em;
+    margin-top: 5em;
+}
+
+.dualGroup{
+    display: flex;
+    margin-bottom: 75px;
+}
+
+.dualGroup img{
+    border: black 1px solid;
+    margin-bottom: 5em;
+    width: 50%;
+}
+
+.person{
+    width: 200PX;
+    border: black 1px solid;
+    margin: 5px;
+}
+
+.person img{
+    width: 200px;
+    height: 200px;
+}
+
+#accelerate{
+    background-color: #F8AECD;
+}
+
+#vacation{
+    background-color: #00D0FF;
+}
+
+#homework{
+    background-color: #9B0059;
+}
+
+#groups{
+    background-color: #F9F871;
+}
+
+#vakken{
+    background-color: #00C9B9;
+}
+
+h1{
+    text-align: center;
+}
+
+/* footer */
+
+.footer{
+    background-color: #03357C;
+    color: #FFCC00;
+}
+
+.footer{
+    padding-top: 20px;
+    padding: 30px 30px 0px 30px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.footerSmoelenBoek{
+    background-color: #FFCC00;
+}
+
+.smoelenBoek{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 25px;
+    text-align: center;
+}
+
+/* phone css */
+@media only screen and (max-width: 35em) {
+    .wrapper{
+        margin: 0 auto;
+        max-width: 1390px;
+    }
+
+    .borderGroup{
+        margin: 0 0 5em 0;
+        padding: 1em 1em 1em 1em;
+    }
+
+    .borderGroupHalf{
+        background-color: #C1ED0C;
+        color: #69197C;
+        width: 100vw;
+        height: auto;
+        margin-top: 5em;
+    }
+
+    .smoelenBoek{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 5vw;
+    }
+
+    .person{
+        width: 40vw;
+        border: black 1px solid;
+        margin: 5px;
+    }
+
+    .person img{
+        width: 40vw;
+    }
+
+    .dualGroup{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .dualGroup img{
+        border: black 0px solid;
+        width: 100%;
+    }
+
+    .links{
+        margin-right: 1em;
+        margin-left: 1em;
+    }
+
+    #schoolImage{
+        margin-top: 3em;
+        max-height: auto;
+        overflow: hidden;
+        margin-bottom: 3em;
+    }
+
+    
+  }
