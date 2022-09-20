@@ -25,6 +25,7 @@
 
     <main>
         <div class="wrapper">
+            <span class="anchor" id="schedule"></span>
             <div class="dualGroup">
                 <div class="borderGroupHalf">
                     <h1>rooster</h1>
@@ -36,6 +37,7 @@
                 <img src="img/afbeelding1.png" alt="rooster">
             </div>
 
+            <span class="anchor" id="accelerate"></span>
             <div class="borderGroup" id="accelerate">
                 <h1>versnellen</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -44,6 +46,7 @@
                 , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
             </div>
 
+            <span class="anchor" id="vacation"></span>
             <div class="borderGroup" id="vacation">
                 <h1>vakantie</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -52,6 +55,7 @@
                 , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
             </div>
 
+            <span class="anchor" id="homework"></span>
             <div class="borderGroup" id="homework">
                 <h1>huiswerk</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -60,6 +64,7 @@
                 , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
             </div>
 
+            <span class="anchor" id="groups"></span>
             <div class="borderGroup" id="groups">
                 <h1>groepen</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -68,6 +73,7 @@
                 , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
             </div>
 
+            <span class="anchor" id="vakken"></span>
             <div class="borderGroup" id="vakken">
                 <h1>vakken</h1>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -80,6 +86,7 @@
 
     <footer>
             <div class="footerSmoelenBoek">
+                <span class="anchor" id="faceBook"></span>
                 <div class="smoelenBoek">
                     <div class="person">
                         <img src="img/download.jpeg" alt="test">
