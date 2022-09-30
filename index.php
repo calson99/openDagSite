@@ -34,7 +34,7 @@
                     or asperiores facere, voluptate repellendus dolor. Laboriosam
                     , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
                 </div>
-                <img src="img/afbeelding1.png" alt="rooster">
+                <img src="img/Afbeelding1.png" alt="rooster">
             </div>
 
             <span class="anchor" id="accelerate"></span>
@@ -83,6 +83,7 @@
             </div>
         </div>
     </main>
+    
 
     <footer>
             <div class="footerSmoelenBoek">
@@ -152,3 +153,4 @@
             </div>
     </footer>
 </body>
+
