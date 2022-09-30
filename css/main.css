@@ -145,7 +145,7 @@ h1{
     }
 
     .borderGroup{
-        margin: 0 0 5em 0;
+        margin: 0 0 5vw 0;
         padding: 1em 1em 1em 1em;
     }
 
@@ -195,6 +195,5 @@ h1{
         overflow: hidden;
         margin-bottom: 3em;
     }
-
-    
   }
+  
