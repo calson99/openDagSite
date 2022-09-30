@@ -39,6 +39,10 @@ nav{
     margin-bottom: 5em;
 }
 
+a:hover{
+    color: white;
+}
+
 /* main */
 
 .anchor{
