@@ -60,10 +60,13 @@
             <span class="anchor" id="vacation"></span>
             <div class="borderGroup" id="vacation">
                 <h1>vakantie</h1>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Nihil sequi animi minima autem sed accusamus delectus err
-                or asperiores facere, voluptate repellendus dolor. Laboriosam
-                , dolorem. Soluta quaerat expedita sint necessitatibus! Doloribus?</p>
+                <p>Er wordt op deze opleiding meer dan genoeg vakantie gegeven in de vorm van de normale vakantie, vrije dagen en bufferweken.<br>
+                Je zult hier gewoon de normale vakantie meemaken, denk hierbij aan de zomervakantie, kerstvakantie enzovoort, hiernaast zul je ook een paar vrije weken meemaken deze heten de bufferweken.<br>
+                De bufferweken zijn weken waarbij je naar school moet komen als je je huiswerk nog niet af hebt, maar als je die wel af hebt dan heb je deze week gewoon lekker vrij. <br>
+                Naast dit is er ook nog een aparte vrije dag genaamd Curio dag, op deze dag zal je ook gewoon vrij hebben.<br>
+                De datums van de vakanties verschillen natuurlijk van jaar tot jaar maar je kan deze altijd terug vinden op de Curio website.<br>
+                Dus als je al je huiswerk maakt zal je op deze opleiding veel vakantie dankzij de bufferweken, wil je dus een opleiding met veel vakantie dan moet je deze opleiding zeker kiezen.
+                </p>
             </div>
 
             <span class="anchor" id="homework"></span>
