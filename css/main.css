@@ -122,6 +122,10 @@ h1{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 25px;
     text-align: center;
+    justify-items: center;
+    color: #03357C;
+}
+
 .person{
     width: 200PX;
     border: #03357C 0.5vw outset;
